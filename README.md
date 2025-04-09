@@ -18,6 +18,10 @@ This project is a **Machine Learning-based Loan Approval Prediction System** des
 - ✅ **Model Persistence**  
   Best-trained model saved as a `.pkl` file for easy production deployment.
 
+
+  ## Live
+  Code version is live [here](https://loan-prediction-9pmmuclvj2mkahowbvpsrz.streamlit.app/)
+
 ---
 
 ## ⚙️ Installation
